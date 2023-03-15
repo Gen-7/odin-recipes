@@ -1,0 +1,31 @@
+body {
+  font-family: Verdana, sans-serif;
+}
+
+h1 {
+  text-align: center;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+a {
+  font-size: 24px;
+}
+
+.mac {
+  background-color: rebeccapurple;
+  color: white;
+}
+
+.chicken {
+  background-color:aquamarine;
+}
+
+.pie {
+  background-color: rosybrown;
+  color: red;
+}
